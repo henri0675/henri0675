@@ -1,4 +1,4 @@
-##Olá, me chamo Henrique Infanti Coratolo
+## Olá, me chamo Henrique Infanti Coratolo
 
 
 <div>
@@ -8,9 +8,7 @@
 </div>
 
 
-###
 
-<p align="left">📚 I'm currently learning React, Python, Github and mess ith arduino UNO.<br>🎯 Goals: Improve my programming skills.<br>🎲 Fun fact: I really like reading and learning new things.</p>
 
 ###
 
