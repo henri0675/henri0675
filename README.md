@@ -43,12 +43,20 @@
 ###
 
 ## Contatos
-<div align="left"
-<a href="https://www.linkedin.com/in/henrique-infanti-coratolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</p>
-  <a href="https://www.instagram.com/henrique.infanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/henrique-infanti-coratolo/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/henrique.infanti/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <a href="mailto:henrique.infanti@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
+
 
 ###
 
