@@ -43,6 +43,9 @@
 ###
 
 ## Contatos
-<div> 
-  <a href="https://www.linkedin.com/in/henrique-infanti-coratolo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href = "mailto:henriinfanti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="left">
+  <img src="https://www.linkedin.com/in/henrique-infanti-coratolo/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.instagram.com/henrique.infanti/?next=%2F/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act&gar=WzEyMF0/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+  
