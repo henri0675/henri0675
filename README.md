@@ -7,7 +7,7 @@ Tenho facilidade com lógica, usabilidade e design responsivo, sempre buscando u
 
 🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python, HTML, CSS e Git.
 
-📚 Atualmente aprofundando conhecimentos em: Java, SQL e PHP.
+📚 Atualmente aprofundando conhecimentos em: Java e SQL.
 
 Estou constantemente evoluindo, buscando desafios que me permitam crescer como desenvolvedor e contribuir com projetos inovadores.
 
