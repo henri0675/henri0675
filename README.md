@@ -1,12 +1,14 @@
 ## Olá, me chamo Henrique 
 
 
-<div>
-<a href="https://github.com/henri0675">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henri0675&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henri0675&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Sou estudante do 2º ano de Engenharia de Software na FIAP, movido pela curiosidade e pelo desejo de transformar ideias em soluções digitais que realmente impactem a vida das pessoas. Acredito na tecnologia como ferramenta de inovação, eficiência e transformação.
 
+Tenho facilidade com lógica, usabilidade e design responsivo, sempre buscando unir boas práticas de desenvolvimento a soluções criativas, com foco na melhor experiência do usuário.
+
+🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python, HTML, CSS e Git.
+📚 Atualmente aprofundando conhecimentos em: Java, SQL e PHP.
+
+Estou constantemente evoluindo, buscando desafios que me permitam crescer como desenvolvedor e contribuir com projetos inovadores.
 
 
 
