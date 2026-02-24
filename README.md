@@ -6,6 +6,7 @@ Sou estudante do 2º ano de Engenharia de Software na FIAP, movido pela curiosid
 Tenho facilidade com lógica, usabilidade e design responsivo, sempre buscando unir boas práticas de desenvolvimento a soluções criativas, com foco na melhor experiência do usuário.
 
 🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python, HTML, CSS e Git.
+
 📚 Atualmente aprofundando conhecimentos em: Java, SQL e PHP.
 
 Estou constantemente evoluindo, buscando desafios que me permitam crescer como desenvolvedor e contribuir com projetos inovadores.
