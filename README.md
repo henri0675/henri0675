@@ -1,13 +1,13 @@
 ## Olá, me chamo Henrique 
 
 
-Sou estudante do 2º ano de Engenharia de Software na FIAP, movido pela curiosidade e pelo desejo de transformar ideias em soluções digitais que realmente impactem a vida das pessoas. Acredito na tecnologia como ferramenta de inovação, eficiência e transformação.
+Sou estudante do 2º ano de Engenharia de Software na FIAP, com foco em desenvolvimento back-end, movido pela curiosidade e pelo desejo de transformar ideias em soluções digitais que realmente impactem a vida das pessoas. Acredito na tecnologia como ferramenta de inovação, eficiência e transformação.
 
 Tenho facilidade com lógica, usabilidade e design responsivo, sempre buscando unir boas práticas de desenvolvimento a soluções criativas, com foco na melhor experiência do usuário.
 
-🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python, HTML, CSS e Git.
+🚀 Principais habilidades: React, Node.js, Java, TypeScript, JavaScript, Python, HTML, CSS e Git.
 
-📚 Atualmente aprofundando conhecimentos em: Java e SQL.
+📚 Atualmente aprofundando conhecimentos em: SQL
 
 Estou constantemente evoluindo, buscando desafios que me permitam crescer como desenvolvedor e contribuir com projetos inovadores.
 
